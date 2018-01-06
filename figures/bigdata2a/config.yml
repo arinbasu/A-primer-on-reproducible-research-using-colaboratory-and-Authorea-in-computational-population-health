@@ -17,3 +17,5 @@ grid:
     - 1
     - 1
     url: "/users/2191/articles/278438/master/file/figures/bigdata2a/bigdata2a.csv"
+    folder_url: "/users/2191/articles/278438/master/folder/figures/bigdata2a"
+    treatFirstLineAsHeader: true
